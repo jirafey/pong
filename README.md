@@ -4,3 +4,11 @@ To install the game just click on the Pong.exe file and click download and proce
 ![image](https://user-images.githubusercontent.com/97115044/153032708-8ae79ddf-c39f-40dc-8016-2282eee19ba6.png)
 
 The game was made by Grzegorz Kmita.
+
+To open a game simply: 
+open up the Pong Application
+
+A game made by Grzegorz Kmita, 
+nickname: Jirafey
+Note: This is my first ever finished game. 
+Enjoy!

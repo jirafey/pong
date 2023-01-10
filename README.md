@@ -1,5 +1,5 @@
-# [![itch.io](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/itch.png)](https://jirafey.itch.io/)
-
+<div align="center">[![itch.io](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/itch.png)](https://jirafey.itch.io/)
+</div>
 To install the game just click on the Pong.exe file and click download and proceed, you will be informed that the file is from unknown creator but please run it anyway, I worked really hard to get the game to feel right :)
 ![image](https://user-images.githubusercontent.com/97115044/153032143-094acc1a-4b31-4a43-9bf0-76f0c3c86653.png)
 ![image](https://user-images.githubusercontent.com/97115044/153032281-e54e0490-361f-4387-ae90-239dcff62b15.png)

@@ -11,4 +11,4 @@ open up the Pong Application
 Note: This is my first ever finished game. 
 Enjoy!
 
-![itch](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/itch.png)](https://jirafey.itch.io/)
+![itch](https://raw.githubusercontent.com/Jirafey/grzegorzkmita.com/main/images/itch.png)][https://jirafey.itch.io)]

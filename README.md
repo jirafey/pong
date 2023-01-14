@@ -1,3 +1,5 @@
+# Retro 2D 2-player game "Pong" made using Python turtle library 
+
 [![](https://raw.githubusercontent.com/Jirafey/Jirafey/55922aecf8e813d4f41010185c29d0ff29b1ece2/images/itch-48.svg)](jirafey.itch.io/pong)
 
 To install the game just click on the Pong.exe file and click download and proceed, you will be informed that the file is from unknown creator but please run it anyway, I worked really hard to get the game to feel right :)

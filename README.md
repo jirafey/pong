@@ -7,7 +7,7 @@ To install the game just click on the Pong.exe file and click download and proce
 ![image](https://user-images.githubusercontent.com/97115044/153032281-e54e0490-361f-4387-ae90-239dcff62b15.png)
 ![image](https://user-images.githubusercontent.com/97115044/153032708-8ae79ddf-c39f-40dc-8016-2282eee19ba6.png)
 
-The game was made by Grzegorz Kmita.
+The game was made by jirafey.
 
 To open a game simply: 
 open up the Pong Application
